@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------------------------------
+MITÄ PUUTTUU:
+-------------------------------------------------------------------------------------------------------
+-piikki trapit/joku muu trappi
+-zombie kävely seinie läpi pitää fixaa
+-oven avaus kun poimii avaimen, kellarisokkelossa
+-platformin spawnaaminen kun poimii avaimen laavaosios, eli ei tarvii hyppiä samoi platformei takas
+-audio fixaus: bg musiikki ja muut ismot pois
+
+jos ehtii
+-ilmoitusviestit jotka neuvois pelaajaa mapin läpipääsyyn

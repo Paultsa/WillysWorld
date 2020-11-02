@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/_Scenes/splash screen.unity
+    guid: 97b2e5fa67606664bbd596c9c3fb56b8
+  - enabled: 1
+    path: Assets/_Scenes/Prologue.unity
+    guid: 5ed727a371f3f00489663d43bbf857a8
+  - enabled: 1
+    path: Assets/_Scenes/Menu.unity
+    guid: b22d2a5b010cd4d4b9462df768778560
+  - enabled: 1
+    path: Assets/_Scenes/Level 1.unity
+    guid: 5c0d4dfbf54b6b340b1a11f095be8e90
+  - enabled: 1
+    path: Assets/_Scenes/Dungeon.unity
+    guid: 6c1de9d79eb55f04cab4587b141539a8
+  - enabled: 1
+    path: Assets/_Scenes/DesertStormV2.unity
+    guid: 2e94294857ec96a458144ddc81d030b9
+  - enabled: 1
+    path: Assets/_Scenes/WinScreen.unity
+    guid: 45f1233d9b361e74198814c2b6f2c00a
+  m_configObjects: {}
